@@ -1,6 +1,7 @@
 *.log
 *.tar
 *.pub
-account.json
+credentials.json
 google_compute_engine
+google_compute_engine.pub
 *.old
