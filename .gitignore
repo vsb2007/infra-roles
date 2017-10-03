@@ -1,0 +1,5 @@
+*.log
+*.tar
+*.pub
+account.json
+google_compute_engine
